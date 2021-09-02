@@ -2,7 +2,7 @@
 
 **Conteúdo:**
 
-desabilita-pontos-de-restauração.ps1
+desabilita-pontos-de-restauração.ps1 (Script de Powershell)
 
 Microsoft-Windows-Hyper-V-VMMS-Admin_Microsoft-Windows-Hyper-V-VMMS_13002.xml (Arquivo de importação do Agendador de Tarefas)
 
