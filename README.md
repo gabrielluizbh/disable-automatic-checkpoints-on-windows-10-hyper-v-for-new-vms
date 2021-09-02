@@ -2,10 +2,10 @@
 
 Conteúdo:
 
-Script de criação de reservas de ips no DHCP.ps1
+desabilita-pontos-de-restauração.ps1
 
-reservas-dhcp.csv (Modelo de arquivo .CSV para criação de reversas de IPs no DHCP)
+Microsoft-Windows-Hyper-V-VMMS-Admin_Microsoft-Windows-Hyper-V-VMMS_13002.xml (Arquivo de importação do Agendador de Tarefas)
 
-Para maior entendimento para execução do script acesse o link do artigo: https://gabrielluiz.com/2021/08/reservas-dhcp-powershell/
+Para maior entendimento para execução do script acesse o link do artigo: 
 
 Créditos MVP Charbel Nemnom - charbelnemnom.com
