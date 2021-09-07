@@ -1,4 +1,4 @@
-# Script desabilita os pontos de verificação automático no Windows 10.
+# Desativar pontos de verificação automáticos no Hyper-V do Windows 10 para novas máquinas virtuais (VMs).
 
 **Conteúdo:**
 
